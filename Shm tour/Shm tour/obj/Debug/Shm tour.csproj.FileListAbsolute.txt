@@ -1,0 +1,59 @@
+E:\anh thi\Shm tour\Shm tour\bin\Shm tour.dll.config
+E:\anh thi\Shm tour\Shm tour\bin\Shm tour.dll
+E:\anh thi\Shm tour\Shm tour\bin\Shm tour.pdb
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csc.exe
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csc.exe.config
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csc.rsp
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csi.exe
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csi.exe.config
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\csi.rsp
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.Managed.Core.targets
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.AppContext.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Collections.Immutable.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Console.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Globalization.Calendars.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.IO.Compression.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.IO.FileSystem.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Net.Http.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Net.Sockets.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Reflection.Metadata.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.ValueTuple.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Xml.XmlDocument.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Xml.XPath.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\vbc.exe
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\vbc.exe.config
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\vbc.rsp
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\VBCSCompiler.exe
+E:\anh thi\Shm tour\Shm tour\bin\roslyn\VBCSCompiler.exe.config
+E:\anh thi\Shm tour\Shm tour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\anh thi\Shm tour\Shm tour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\anh thi\Shm tour\Shm tour\obj\Debug\Shm tour.csproj.CoreCompileInputs.cache
+E:\anh thi\Shm tour\Shm tour\obj\Debug\Shm tour.csproj.CopyComplete
+E:\anh thi\Shm tour\Shm tour\obj\Debug\Shm tour.dll
+E:\anh thi\Shm tour\Shm tour\obj\Debug\Shm tour.pdb
+E:\anh thi\SHM Tour\Shm tour\obj\Debug\Shm tour.csprojAssemblyReference.cache

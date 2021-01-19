@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+*{
+  margin:0;
+  padding:0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+nav form{
+  display: flex;
+  height: 40px;
+  width: 300px;
+  padding: 2px;
+  background: #1e232b;
+  min-width: 18%!important;
+  border-radius: 2px;
+  border: 1px solid rgba(155,155,155,0.2);
+  margin-right: 50px;  
+}
+nav form .search-data{
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+  color: #fff;
+  font-size: 17px;
+  border: none;
+  font-weight: 500;
+  background: none;
+}
+nav form button{
+  padding: 0 15px;
+  color: #fff;
+  font-size: 17px;
+  background: #ff3d00;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+nav form button:hover{
+  background: #e63600;
+}
+.nav-brand{
+  font-size: 22px;
+  color: #ff3d00;
+}
+.logo{
+  transition:0.5s ease-in-out;
+  font-family: 'Caveat', cursive;
+  margin-left: 50px;
+}
+/*---slider*/
+.carousel-item{
+  height: 100vh;
+  min-height: 300px;
+  background: none repeat scroll center scroll;
+  -webkit-background-size-:cover;
+  background-size: cover;
+}
+.carousel-item::before{
+  content:"";
+  display:block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.7;
+}
+.carousel-captions{
+  bottom: 250px;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: absolute;
+    right: 15%;
+    /* bottom: 1.25rem; */
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.carousel-captions h5{
+  font-size:100px;
+  font-weight:700;
+}
+.carousel-captions p{
+  font-size: 18px;
+  top: 2rem;
+ bottom: 2rem;
+}
+.slider-btn {
+  margin-top: 30px;
+  justify-content: center;
+}
+.slider-btn .btn {
+  background: #ff3d00;
+  color: white;
+  border-radius: 5px;
+  padding:1.5rem 2rem;
+  font-size: 1.25rem;
+  margin-right: 15px;
+}
+.slider-btn btn-2{
+  color: black;
+  background:#fff;
+}
+.abs{
+  width: 300px;
+  height: 200px;
+  box-sizing: border-box;
+  background-color: #ddd;
+  background-image: url('img/1.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 0;
+  margin: 0;
+}
+.img-btn{
+ 
+ color: #fff;
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ box-sizing: border-box;
+ opacity: 1;
+}
+.abs:hover .img-btn{
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  opacity: 0.5;
+  transition: 0.5s ease-in-out;
+}
+.img-btn a{
+  text-decoration: none;
+  color: #fff;
+  opacity: 1;
+}
+
+.tour-hot{
+    margin-top: 20px;
+    display: flex;
+    background: url("img/3.jpg") no-repeat center;
+    height: 600px;
+    color: white;
+}
+    .tour-hot .title-tour {
+        display: block;
+        margin-top: 150px;
+        margin-left: 280px;
+        width: 650px;
+        height: 500px;
+    }        
+            .tour-hot .title-tour .title-ul .nav-items li {
+                list-style: none;
+                padding: 10px;
+                border-radius: 20px;
+                background: #b31f63;
+                color:white;
+                width: 60%;
+                margin-bottom: 10px;
+            }
+        .tour-hot .title-tour .title-h2 {
+            margin-bottom: 10px;
+            font-size: 30px;
+            margin-left: 2rem;
+        }
+        .tour-hot .title-tour .title-p {
+            margin-bottom: 10px;
+            font-size: 20px;
+            margin-left: 2rem;
+        }
+        .tour-hot .title-tour .btn-class{
+            display:flex;
+            margin-right: 15px;
+            margin-left: 2rem;
+        }
+            .tour-hot .title-tour .btn-class .datBtn{
+                margin:20px 15px 0 0;                
+            }
+            .tour-hot .title-tour .btn-class .datBtn a {
+                text-decoration: none;
+                color: white;
+                background: #b31f63;
+                border-radius: 15px;
+                transition: 0.5s ease-in-out;
+                text-align: center;
+                padding: 10px 40px 10px 40px;
+            }
+                .tour-hot .title-tour .btn-class .datBtn a:hover {
+                    background: red;
+                    transform: scaleX(0.8);
+                    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+                }
+            .tour-hot .title-tour .btn-class .classGia {
+                margin: 20px 15px 0 0;                
+            }
+            .tour-hot .title-tour .btn-class .classGia span{
+                margin-right: 5px;
+            }
+.card{
+  box-shadow: 2px 2px 5px rgba(0,0,0, 0.2);
+}
+.card:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0, 0.2);
+}
+.btn-big{
+  width: 300px;
+}
+.slider{
+  margin:2rem 0 0 0;
+  max-width: 1200px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+.testimonial{
+ margin: 50px auto;
+}
+.testimonial h1{
+  text-align: center;
+  font-weight: bold;
+  color: #e53700;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+.testimonial h1::after{
+  content:'';
+  background: #e53700;
+  display: block;
+}
+.testimonial .row{
+  margin-top: 100px;
+
+}
+.col-md-4{
+  margin: 40px auto;
+}
+.profile{
+ padding: 70px 10px 10px;
+ background-color: #efefef;
+ position: relative;
+ border-radius: 1rem;
+}
+.profile img{
+  top:-60px;
+  position: absolute;
+  left: calc(50% - 60px);
+  border: 10px solid white;
+}
+.user{
+  width:120px;
+   height:120px;
+    border-radius: 50%;
+}
+.profile h3{
+  font-size:20px;
+  margin-top: 12px;
+  color: orange;
+}
+blockquote{
+  font-size:16px;
+  line-height:30px;
+}
+blockquote::before{
+  content:'“';
+  font-size:50px;
+  position: relative;
+  color: #ff9800;
+  line-height:  20px;
+  bottom: -15px;
+  right: 5px;
+}
+blockquote::after{
+  content:'”';
+  font-size:50px;
+  position: relative;
+  color: #ff9800;
+  line-height:  10px;
+  bottom: -15px;
+  right: 5px;
+}
+.profile:hover{
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}

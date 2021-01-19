@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Adminmaster.master.cs" Inherits="Shm_tour.View.LoginAdmin.Adminmaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        #menu ul {
+          background: #1F568B;
+          list-style-type: none;
+          text-align: center;
+        }
+                /*==Reset CSS==*/
+        * {
+          margin: 0;
+          padding: 0;
+        }
+ 
+        /*==Style co b?n cho website==*/
+        body {
+          font-family: sans-serif;
+          color: #333;
+        }
+         #menu li {
+          color: #f1f1f1;
+          display: inline-block;
+          width: 280px;
+          height: 40px;
+          line-height: 40px;
+          margin-left: -5px;
+        }
+         #menu ul {
+          background: #1F568B;
+          list-style-type: none;
+          overflow: hidden;
+          width: 100%;
+        }
+         #menu ul {
+          background: #1F568B;
+          list-style-type: none;
+          overflow: hidden;
+          width: 100%;
+        }
+         #menu a {
+          text-decoration: none;
+          color: #fff;
+          display: block;
+        }
+        #menu a:hover {
+          background: #F1F1F1;
+          color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <ul>
+            <li><a href="Home.aspx">Trang chủ</a></li>
+            <li><a href="adminTour.aspx">Quản Lý Tour</a></li>
+            <li><a href="qltour.aspx">Lịch Sử Đặt Tour</a></li>
+
+        </ul>
+    </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+</body>
+</html>

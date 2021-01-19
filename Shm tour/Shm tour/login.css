@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    place-items: center;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(img/3.jpg)
+}
+.login-form {
+    max-width: 35rem;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #fff;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.login-form input {
+   padding: 1.5rem;
+   border: 1px solid #eee;
+   color: #333;
+   border-radius: 4px;
+   margin-bottom: 1.5rem;
+   display: block;
+   width:100%;
+   transition: border 0.25s linear;
+   font-weight: normal;
+}
+
+.login-form input:focus {
+   border-color: var(--primary);
+}
+
+.login-form .forgot {
+   display: inline-block;
+   text-transform: uppercase;
+   color: #333;
+   font-size: 1.2rem;
+   font-weight: 600;
+   margin-bottom: 1.5rem;
+}
+
+.login-form #btnlogin {
+   width: 100%;
+   padding: 1.5rem;
+   border-radius: 4px;
+   color: white;
+   background-color: royalblue;
+   text-transform: uppercase;
+}
+
+.login-form .input-icon {
+   position: relative;
+}
+
+.login-form .input-icon input {
+   padding-right: 4rem;
+}
+
+.login-form .input-icon i {
+   position: absolute;
+   top: 50%;
+   right: 1.5rem;
+   transform: translateY(-50%);
+   color: #ccc;
+   cursor: pointer;
+}
